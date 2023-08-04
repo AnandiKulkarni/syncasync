@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "dsfdsfsdfsdf",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[{\n  name: 'asdsad',\n  id: 22\n}, {\n  name: 'dsad',\n  id: 23\n}, {\n  name: 'asdpa',\n  id: 21\n}]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page2_dsfdsfsdfsdf",
+  "deleted": false,
+  "gitSyncId": "64ca52f242631c661c48f0cb_64ca5b6c42631c661c48f10a"
+}
